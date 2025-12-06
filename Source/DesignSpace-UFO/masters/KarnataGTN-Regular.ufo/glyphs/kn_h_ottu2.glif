@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_h_ottu2" format="2">
+  <advance width="219"/>
+  <outline>
+    <contour>
+      <point x="52.2199" y="-142.721" type="curve" smooth="yes"/>
+      <point x="34.9013" y="-142.721"/>
+      <point x="12.0723" y="-159.252"/>
+      <point x="12.0723" y="-217.506" type="curve" smooth="yes"/>
+      <point x="12.0723" y="-256.079"/>
+      <point x="33.3269" y="-276.546"/>
+      <point x="77.4106" y="-276.546" type="curve" smooth="yes"/>
+      <point x="124.643" y="-276.546"/>
+      <point x="234.065" y="-81.3186"/>
+      <point x="290.744" y="-81.3186" type="curve" smooth="yes"/>
+      <point x="348.998" y="-81.3186"/>
+      <point x="378.124" y="-169.486"/>
+      <point x="378.124" y="-219.867" type="curve" smooth="yes"/>
+      <point x="378.124" y="-257.653"/>
+      <point x="358.444" y="-315.907"/>
+      <point x="290.744" y="-315.907" type="curve" smooth="yes"/>
+      <point x="204.151" y="-315.907"/>
+      <point x="97.878" y="-142.721"/>
+    </contour>
+    <contour>
+      <point x="52.2199" y="-103.36" type="curve" smooth="yes"/>
+      <point x="123.856" y="-103.36"/>
+      <point x="224.619" y="-276.546"/>
+      <point x="290.744" y="-276.546" type="curve" smooth="yes"/>
+      <point x="325.381" y="-276.546"/>
+      <point x="338.764" y="-249.781"/>
+      <point x="338.764" y="-219.867" type="curve" smooth="yes"/>
+      <point x="338.764" y="-180.507"/>
+      <point x="315.148" y="-120.679"/>
+      <point x="290.744" y="-120.679" type="curve" smooth="yes"/>
+      <point x="263.192" y="-120.679"/>
+      <point x="148.259" y="-315.907"/>
+      <point x="77.4106" y="-315.907" type="curve" smooth="yes"/>
+      <point x="14.4339" y="-315.907"/>
+      <point x="-27.2882" y="-281.27"/>
+      <point x="-27.2882" y="-217.506" type="curve" smooth="yes"/>
+      <point x="-27.2882" y="-154.529"/>
+      <point x="0.264151" y="-103.36"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_d_ottu2" format="2">
+  <advance width="264"/>
+  <outline>
+    <contour>
+      <point x="-12.8621" y="-243.583" type="curve" smooth="yes"/>
+      <point x="-2.78912" y="-187.462"/>
+      <point x="43.9785" y="-104"/>
+      <point x="159.818" y="-104" type="curve" smooth="yes"/>
+      <point x="274.939" y="-104"/>
+      <point x="306.597" y="-200.413"/>
+      <point x="306.597" y="-250.059" type="curve" smooth="yes"/>
+      <point x="306.597" y="-307.619"/>
+      <point x="269.902" y="-355.106"/>
+      <point x="210.183" y="-355.106" type="curve" smooth="yes"/>
+      <point x="179.964" y="-355.106"/>
+      <point x="156.94" y="-344.314"/>
+      <point x="140.392" y="-331.363" type="curve"/>
+      <point x="123.124" y="-342.155"/>
+      <point x="94.3436" y="-355.106"/>
+      <point x="66.2831" y="-355.106" type="curve" smooth="yes"/>
+      <point x="17.3569" y="-355.106"/>
+      <point x="-23.6547" y="-302.582"/>
+    </contour>
+    <contour>
+      <point x="57.649" y="-256.534" type="curve"/>
+      <point x="55.4905" y="-270.924"/>
+      <point x="61.966" y="-282.436"/>
+      <point x="67.0026" y="-283.156" type="curve" smooth="yes"/>
+      <point x="78.5146" y="-284.595"/>
+      <point x="102.978" y="-273.083"/>
+      <point x="116.648" y="-260.132" type="curve" smooth="yes"/>
+      <point x="131.038" y="-246.461"/>
+      <point x="153.343" y="-245.742"/>
+      <point x="167.733" y="-260.132" type="curve" smooth="yes"/>
+      <point x="183.562" y="-275.961"/>
+      <point x="192.196" y="-283.156"/>
+      <point x="210.183" y="-283.156" type="curve" smooth="yes"/>
+      <point x="228.89" y="-283.156"/>
+      <point x="234.646" y="-266.607"/>
+      <point x="234.646" y="-250.059" type="curve" smooth="yes"/>
+      <point x="234.646" y="-204.73"/>
+      <point x="204.427" y="-175.95"/>
+      <point x="159.818" y="-175.95" type="curve" smooth="yes"/>
+      <point x="78.5146" y="-175.95"/>
+      <point x="61.2465" y="-237.827"/>
+    </contour>
+  </outline>
+</glyph>

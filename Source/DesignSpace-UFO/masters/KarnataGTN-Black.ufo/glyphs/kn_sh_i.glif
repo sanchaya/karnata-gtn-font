@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_sh_i" format="2">
+  <advance width="505"/>
+  <outline>
+    <contour>
+      <point x="149" y="390" type="curve" smooth="yes"/>
+      <point x="156" y="414"/>
+      <point x="188" y="425"/>
+      <point x="210" y="420" type="curve" smooth="yes"/>
+      <point x="265" y="408"/>
+      <point x="351" y="331"/>
+      <point x="348" y="235" type="curve" smooth="yes"/>
+      <point x="344" y="103"/>
+      <point x="193" y="45"/>
+      <point x="193" y="140" type="curve" smooth="yes"/>
+      <point x="193" y="275"/>
+      <point x="344" y="300"/>
+      <point x="416" y="433" type="curve" smooth="yes"/>
+      <point x="516" y="619"/>
+      <point x="408" y="732"/>
+      <point x="249" y="708" type="curve" smooth="yes"/>
+      <point x="58" y="681"/>
+      <point x="44" y="421"/>
+      <point x="336" y="515" type="curve" smooth="yes"/>
+      <point x="363" y="524"/>
+      <point x="377" y="552"/>
+      <point x="369" y="578" type="curve"/>
+      <point x="357" y="613"/>
+      <point x="327" y="618"/>
+      <point x="296" y="608" type="curve" smooth="yes"/>
+      <point x="196" y="576"/>
+      <point x="173" y="596"/>
+      <point x="263" y="610" type="curve" smooth="yes"/>
+      <point x="375" y="627"/>
+      <point x="369" y="556"/>
+      <point x="328" y="481" type="curve" smooth="yes"/>
+      <point x="270" y="374"/>
+      <point x="93" y="332"/>
+      <point x="93" y="140" type="curve" smooth="yes"/>
+      <point x="93" y="-92"/>
+      <point x="440" y="-37"/>
+      <point x="448" y="231" type="curve" smooth="yes"/>
+      <point x="453" y="381"/>
+      <point x="328" y="497"/>
+      <point x="232" y="518" type="curve" smooth="yes"/>
+      <point x="163" y="533"/>
+      <point x="76" y="497"/>
+      <point x="53" y="418" type="curve" smooth="yes"/>
+      <point x="45" y="391"/>
+      <point x="61" y="364"/>
+      <point x="87" y="356" type="curve" smooth="yes"/>
+      <point x="114" y="348"/>
+      <point x="141" y="364"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kn_sh_i</string>
+  </dict>
+  </lib>
+</glyph>
