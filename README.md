@@ -56,15 +56,22 @@ Useful for:
 ![Karnata GTN Mobile](Tests/Assets/gtnmobile.jpg)
 
 ## Contributors
-Omshivaprakash H L
+
+Arun C Kallappanavar
 
 Vaishnavi Murthy
 
-Arun C Kallappanavar
+Omshivaprakash H L
+
+Abhaya Simha
+
+GTN family
 
 Prem Kumar M 
 
 Krishna Kumar B
+
+Bhimaraj S Kotabagi
 
 ## License
 
