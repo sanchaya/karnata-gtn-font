@@ -57,23 +57,27 @@ Useful for:
 
 ## Contributors
 
+Design & Development 
+
 Arun C Kallappanavar
+
+Special Thanks to 
 
 Vaishnavi Murthy
 
 Omshivaprakash H L
 
-Abhaya Simha
-
 Prashant Pandit
 
 GTN family
 
-Prem Kumar M 
+Prem Kumar M
 
 Krishna Kumar B
 
 Bhimaraj S Kotabagi
+
+ServantsOfKnowledge for Digitization Support
 
 ## License
 
