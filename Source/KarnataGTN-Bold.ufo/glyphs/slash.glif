@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="2">
+  <advance width="430"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="321.6" y="751.2" type="qcurve" smooth="yes"/>
+      <point x="314.6" y="728.8"/>
+      <point x="268.8" y="613.6"/>
+      <point x="209" y="465.4"/>
+      <point x="142.4" y="301.8"/>
+      <point x="83.6" y="160"/>
+      <point x="40.2" y="57.2"/>
+      <point x="34.2" y="43.2" type="qcurve" smooth="yes"/>
+      <point x="27.4" y="27.8"/>
+      <point x="39" y="-2.2"/>
+      <point x="55" y="-9.6" type="qcurve"/>
+      <point x="70.4" y="-16"/>
+      <point x="100.4" y="-4.8"/>
+      <point x="107.8" y="11.2" type="qcurve" smooth="yes"/>
+      <point x="113.8" y="24.6"/>
+      <point x="156.6" y="127.4"/>
+      <point x="215.8" y="270.2"/>
+      <point x="282.6" y="434.8"/>
+      <point x="343.4" y="584.8"/>
+      <point x="389.2" y="702"/>
+      <point x="397.2" y="725.6" type="qcurve" smooth="yes"/>
+      <point x="402.6" y="741.6"/>
+      <point x="388.2" y="771"/>
+      <point x="372.2" y="776.2" type="qcurve" smooth="yes"/>
+      <point x="356.2" y="781.6"/>
+      <point x="326.8" y="767.2"/>
+    </contour>
+  </outline>
+</glyph>

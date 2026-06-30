@@ -1,0 +1,1492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OTLayout>
+<GSUB>
+  <Version value="1.0"/>
+  <ScriptList>
+    <!-- ScriptCount=4 -->
+    <ScriptRecord index="0">
+      <ScriptTag value="DFLT"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=7 -->
+          <FeatureIndex index="0" value="0"/>
+          <FeatureIndex index="1" value="4"/>
+          <FeatureIndex index="2" value="8"/>
+          <FeatureIndex index="3" value="12"/>
+          <FeatureIndex index="4" value="16"/>
+          <FeatureIndex index="5" value="20"/>
+          <FeatureIndex index="6" value="24"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+    <ScriptRecord index="1">
+      <ScriptTag value="knd2"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=7 -->
+          <FeatureIndex index="0" value="1"/>
+          <FeatureIndex index="1" value="5"/>
+          <FeatureIndex index="2" value="9"/>
+          <FeatureIndex index="3" value="13"/>
+          <FeatureIndex index="4" value="17"/>
+          <FeatureIndex index="5" value="21"/>
+          <FeatureIndex index="6" value="25"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+    <ScriptRecord index="2">
+      <ScriptTag value="knda"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=7 -->
+          <FeatureIndex index="0" value="2"/>
+          <FeatureIndex index="1" value="6"/>
+          <FeatureIndex index="2" value="10"/>
+          <FeatureIndex index="3" value="14"/>
+          <FeatureIndex index="4" value="18"/>
+          <FeatureIndex index="5" value="22"/>
+          <FeatureIndex index="6" value="26"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+    <ScriptRecord index="3">
+      <ScriptTag value="latn"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=7 -->
+          <FeatureIndex index="0" value="3"/>
+          <FeatureIndex index="1" value="7"/>
+          <FeatureIndex index="2" value="11"/>
+          <FeatureIndex index="3" value="15"/>
+          <FeatureIndex index="4" value="19"/>
+          <FeatureIndex index="5" value="23"/>
+          <FeatureIndex index="6" value="27"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+  </ScriptList>
+  <FeatureList>
+    <!-- FeatureCount=28 -->
+    <FeatureRecord index="0">
+      <FeatureTag value="aalt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="1">
+      <FeatureTag value="aalt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="2">
+      <FeatureTag value="aalt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="3">
+      <FeatureTag value="aalt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="4">
+      <FeatureTag value="akhn"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="5">
+      <FeatureTag value="akhn"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="6">
+      <FeatureTag value="akhn"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="7">
+      <FeatureTag value="akhn"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="8">
+      <FeatureTag value="blwf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="9">
+      <FeatureTag value="blwf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="10">
+      <FeatureTag value="blwf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="11">
+      <FeatureTag value="blwf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="12">
+      <FeatureTag value="blws"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="13">
+      <FeatureTag value="blws"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="14">
+      <FeatureTag value="blws"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="15">
+      <FeatureTag value="blws"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="16">
+      <FeatureTag value="haln"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="17">
+      <FeatureTag value="haln"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="18">
+      <FeatureTag value="haln"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="19">
+      <FeatureTag value="haln"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="20">
+      <FeatureTag value="psts"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="21">
+      <FeatureTag value="psts"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="22">
+      <FeatureTag value="psts"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="23">
+      <FeatureTag value="psts"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="24">
+      <FeatureTag value="rphf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="25">
+      <FeatureTag value="rphf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="26">
+      <FeatureTag value="rphf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="27">
+      <FeatureTag value="rphf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+  </FeatureList>
+  <LookupList>
+    <!-- LookupCount=8 -->
+    <Lookup index="0">
+      <LookupType value="1"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <SingleSubst index="0" Format="2">
+        <Substitution in="kn_k" out="kn_k_v"/>
+        <Substitution in="kn_kh" out="kn_kh_v"/>
+        <Substitution in="kn_g" out="kn_g_v"/>
+        <Substitution in="kn_gh" out="kn_gh_v"/>
+        <Substitution in="kn_uni06AD" out="kn_uni06AD_v"/>
+        <Substitution in="kn_c" out="kn_c_v"/>
+        <Substitution in="kn_ch" out="kn_ch_v"/>
+        <Substitution in="kn_j" out="kn_j_v"/>
+        <Substitution in="kn_jh" out="kn_jh_v"/>
+        <Substitution in="kn_ny" out="kn_ny_v"/>
+        <Substitution in="kn_tt" out="kn_tt_v"/>
+        <Substitution in="kn_tth" out="kn_tth_v"/>
+        <Substitution in="kn_dd" out="kn_dd_v"/>
+        <Substitution in="kn_ddh" out="kn_ddh_v"/>
+        <Substitution in="kn_nn" out="kn_nn_v"/>
+        <Substitution in="kn_t" out="kn_t_v"/>
+        <Substitution in="kn_th" out="kn_th_v"/>
+        <Substitution in="kn_d" out="kn_d_v"/>
+        <Substitution in="kn_dh" out="kn_dh_v"/>
+        <Substitution in="kn_n" out="kn_n_v"/>
+        <Substitution in="kn_p" out="kn_p_v"/>
+        <Substitution in="kn_ph" out="kn_ph_v"/>
+        <Substitution in="kn_b" out="kn_b_v"/>
+        <Substitution in="kn_bh" out="kn_bh_v"/>
+        <Substitution in="kn_m" out="kn_m_v"/>
+        <Substitution in="kn_y" out="kn_y_v"/>
+        <Substitution in="kn_r" out="kn_r_v"/>
+        <Substitution in="kn_l" out="kn_l_v"/>
+        <Substitution in="kn_ll" out="kn_ll_v"/>
+        <Substitution in="kn_v" out="kn_v_v"/>
+        <Substitution in="kn_sh" out="kn_sh_v"/>
+        <Substitution in="kn_ss" out="kn_ss_v"/>
+        <Substitution in="kn_s" out="kn_s_v"/>
+        <Substitution in="kn_h" out="kn_h_v"/>
+        <Substitution in="kn_arka_ottu" out="kn_r_ottu"/>
+      </SingleSubst>
+    </Lookup>
+    <Lookup index="1">
+      <LookupType value="4"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <LigatureSubst index="0" Format="1">
+        <LigatureSet glyph="kn_k">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_k_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_k_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_k_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_k_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_k_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_k_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_k_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_k_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_kh">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_kh_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_kh_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_kh_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_kh_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_kh_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_kh_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_kh_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_kh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_g">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_g_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_g_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_g_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_g_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_g_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_g_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_g_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_g_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_gh">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_gh_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_gh_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_gh_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_gh_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_gh_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_gh_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_gh_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_gh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_uni06AD">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_uni06AD_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_uni06AD_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_uni06AD_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_uni06AD_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_uni06AD_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_uni06AD_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_uni06AD_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_uni06AD_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_c">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_c_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_c_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_c_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_c_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_c_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_c_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_c_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_c_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ch">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_ch_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_ch_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_ch_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_ch_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_ch_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_ch_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_ch_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_ch_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_j">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_j_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_j_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_j_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_j_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_j_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_j_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_j_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_j_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_jh">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_jh_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_jh_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_jh_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_jh_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_jh_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_jh_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_jh_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_jh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ny">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_ny_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_ny_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_ny_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_ny_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_ny_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_ny_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_ny_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_ny_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_tt">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_tt_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_tt_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_tt_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_tt_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_tt_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_tt_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_tt_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_tt_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_tth">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_tth_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_tth_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_tth_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_tth_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_tth_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_tth_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_tth_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_tth_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_dd">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_dd_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_dd_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_dd_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_dd_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_dd_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_dd_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_dd_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_dd_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ddh">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_ddh_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_ddh_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_ddh_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_ddh_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_ddh_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_ddh_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_ddh_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_ddh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_nn">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_nn_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_nn_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_nn_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_nn_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_nn_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_nn_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_nn_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_nn_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_t">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_t_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_t_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_t_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_t_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_t_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_t_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_t_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_t_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_th">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_th_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_th_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_th_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_th_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_th_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_th_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_th_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_th_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_d">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_d_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_d_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_d_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_d_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_d_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_d_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_d_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_d_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_dh">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_dh_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_dh_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_dh_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_dh_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_dh_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_dh_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_dh_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_dh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_n">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_n_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_n_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_n_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_n_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_n_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_n_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_n_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_n_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_p">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_p_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_p_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_p_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_p_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_p_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_p_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_p_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_p_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ph">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_ph_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_ph_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_ph_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_ph_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_ph_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_ph_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_ph_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_ph_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_b">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_b_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_b_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_b_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_b_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_b_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_b_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_b_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_b_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_bh">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_bh_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_bh_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_bh_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_bh_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_bh_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_bh_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_bh_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_bh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_m">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_m_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_m_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_m_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_m_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_m_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_m_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_m_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_m_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_y">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_y_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_y_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_y_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_y_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_y_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_y_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_y_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_y_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_r">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_r_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_r_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_r_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_r_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_r_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_r_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_r_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_r_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_l">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_l_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_l_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_l_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_l_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_l_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_l_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_l_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_l_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ll">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_ll_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_ll_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_ll_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_ll_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_ll_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_ll_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_ll_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_ll_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_v">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_v_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_v_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_v_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_v_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_v_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_v_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_v_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_v_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_sh">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_sh_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_sh_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_sh_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_sh_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_sh_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_sh_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_sh_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_sh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ss">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_ss_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_ss_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_ss_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_ss_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_ss_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_ss_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_ss_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_ss_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_s">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_s_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_s_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_s_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_s_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_s_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_s_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_s_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_s_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_h">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_h_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_h_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_h_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_h_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_h_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_h_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_h_uniA737"/>
+          <Ligature components="kn_u11235" glyph="kn_h_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_b_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_b_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_bh_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_bh_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_c_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_c_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ch_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_ch_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_d_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_d_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_dd_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_dd_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ddh_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_ddh_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_dh_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_dh_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_g_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_g_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_gh_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_gh_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_h_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_h_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_j_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_j_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_jh_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_jh_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_k_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_k_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_kh_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_kh_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_l_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_l_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ll_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_ll_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_m_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_m_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_n_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_n_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_uni06AD_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_uni06AD_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_nn_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_nn_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ny_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_ny_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_p_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_p_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ph_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_ph_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_r_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_r_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_s_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_s_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_sh_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_sh_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ss_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_ss_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_t_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_t_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_th_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_th_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_tt_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_tt_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_tth_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_tth_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_v_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_v_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_y_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_y_o"/>
+        </LigatureSet>
+      </LigatureSubst>
+    </Lookup>
+    <Lookup index="2">
+      <LookupType value="4"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <LigatureSubst index="0" Format="1">
+        <LigatureSet glyph="kn_k">
+          <Ligature components="kn_u11235" glyph="kn_k_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_kh">
+          <Ligature components="kn_u11235" glyph="kn_kh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_g">
+          <Ligature components="kn_u11235" glyph="kn_g_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_gh">
+          <Ligature components="kn_u11235" glyph="kn_gh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_uni06AD">
+          <Ligature components="kn_u11235" glyph="kn_uni06AD_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_c">
+          <Ligature components="kn_u11235" glyph="kn_c_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ch">
+          <Ligature components="kn_u11235" glyph="kn_ch_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_j">
+          <Ligature components="kn_u11235" glyph="kn_j_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_jh">
+          <Ligature components="kn_u11235" glyph="kn_jh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ny">
+          <Ligature components="kn_u11235" glyph="kn_ny_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_tt">
+          <Ligature components="kn_u11235" glyph="kn_tt_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_tth">
+          <Ligature components="kn_u11235" glyph="kn_tth_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_dd">
+          <Ligature components="kn_u11235" glyph="kn_dd_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ddh">
+          <Ligature components="kn_u11235" glyph="kn_ddh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_nn">
+          <Ligature components="kn_u11235" glyph="kn_nn_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_t">
+          <Ligature components="kn_u11235" glyph="kn_t_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_th">
+          <Ligature components="kn_u11235" glyph="kn_th_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_d">
+          <Ligature components="kn_u11235" glyph="kn_d_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_dh">
+          <Ligature components="kn_u11235" glyph="kn_dh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_n">
+          <Ligature components="kn_u11235" glyph="kn_n_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_p">
+          <Ligature components="kn_u11235" glyph="kn_p_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ph">
+          <Ligature components="kn_u11235" glyph="kn_ph_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_b">
+          <Ligature components="kn_u11235" glyph="kn_b_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_bh">
+          <Ligature components="kn_u11235" glyph="kn_bh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_m">
+          <Ligature components="kn_u11235" glyph="kn_m_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_y">
+          <Ligature components="kn_u11235" glyph="kn_y_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_r">
+          <Ligature components="kn_u11235" glyph="kn_r_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_l">
+          <Ligature components="kn_u11235" glyph="kn_l_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ll">
+          <Ligature components="kn_u11235" glyph="kn_ll_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_v">
+          <Ligature components="kn_u11235" glyph="kn_v_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_sh">
+          <Ligature components="kn_u11235" glyph="kn_sh_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ss">
+          <Ligature components="kn_u11235" glyph="kn_ss_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_s">
+          <Ligature components="kn_u11235" glyph="kn_s_v"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_h">
+          <Ligature components="kn_u11235" glyph="kn_h_v"/>
+        </LigatureSet>
+      </LigatureSubst>
+    </Lookup>
+    <Lookup index="3">
+      <LookupType value="4"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <LigatureSubst index="0" Format="1">
+        <LigatureSet glyph="kn_k">
+          <Ligature components="kn_u11235" glyph="kn_k_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_kh">
+          <Ligature components="kn_u11235" glyph="kn_kh_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_g">
+          <Ligature components="kn_u11235" glyph="kn_g_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_gh">
+          <Ligature components="kn_u11235" glyph="kn_gh_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_uni06AD">
+          <Ligature components="kn_u11235" glyph="kn_uni06AD_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_c">
+          <Ligature components="kn_u11235" glyph="kn_c_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ch">
+          <Ligature components="kn_u11235" glyph="kn_ch_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_j">
+          <Ligature components="kn_u11235" glyph="kn_j_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_jh">
+          <Ligature components="kn_u11235" glyph="kn_jh_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ny">
+          <Ligature components="kn_u11235" glyph="kn_ny_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_tt">
+          <Ligature components="kn_u11235" glyph="kn_tt_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_tth">
+          <Ligature components="kn_u11235" glyph="kn_tth_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_dd">
+          <Ligature components="kn_u11235" glyph="kn_dd_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ddh">
+          <Ligature components="kn_u11235" glyph="kn_ddh_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_nn">
+          <Ligature components="kn_u11235" glyph="kn_nn_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_t">
+          <Ligature components="kn_u11235" glyph="kn_t_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_th">
+          <Ligature components="kn_u11235" glyph="kn_th_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_d">
+          <Ligature components="kn_u11235" glyph="kn_d_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_dh">
+          <Ligature components="kn_u11235" glyph="kn_dh_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_n">
+          <Ligature components="kn_u11235" glyph="kn_n_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_p">
+          <Ligature components="kn_u11235" glyph="kn_p_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ph">
+          <Ligature components="kn_u11235" glyph="kn_ph_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_b">
+          <Ligature components="kn_u11235" glyph="kn_b_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_bh">
+          <Ligature components="kn_u11235" glyph="kn_bh_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_m">
+          <Ligature components="kn_u11235" glyph="kn_m_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_y">
+          <Ligature components="kn_u11235" glyph="kn_y_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_r">
+          <Ligature components="kn_u11235" glyph="kn_r_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_l">
+          <Ligature components="kn_u11235" glyph="kn_l_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ll">
+          <Ligature components="kn_u11235" glyph="kn_ll_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_v">
+          <Ligature components="kn_u11235" glyph="kn_v_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_sh">
+          <Ligature components="kn_u11235" glyph="kn_sh_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ss">
+          <Ligature components="kn_u11235" glyph="kn_ss_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_s">
+          <Ligature components="kn_u11235" glyph="kn_s_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_h">
+          <Ligature components="kn_u11235" glyph="kn_h_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_u11235">
+          <Ligature components="kn_k" glyph="kn_k_ottu"/>
+          <Ligature components="kn_kh" glyph="kn_kh_ottu"/>
+          <Ligature components="kn_g" glyph="kn_g_ottu"/>
+          <Ligature components="kn_gh" glyph="kn_gh_ottu"/>
+          <Ligature components="kn_uni06AD" glyph="kn_uni06AD_ottu"/>
+          <Ligature components="kn_c" glyph="kn_c_ottu"/>
+          <Ligature components="kn_ch" glyph="kn_ch_ottu"/>
+          <Ligature components="kn_j" glyph="kn_j_ottu"/>
+          <Ligature components="kn_jh" glyph="kn_jh_ottu"/>
+          <Ligature components="kn_ny" glyph="kn_ny_ottu"/>
+          <Ligature components="kn_tt" glyph="kn_tt_ottu"/>
+          <Ligature components="kn_tth" glyph="kn_tth_ottu"/>
+          <Ligature components="kn_dd" glyph="kn_dd_ottu"/>
+          <Ligature components="kn_ddh" glyph="kn_ddh_ottu"/>
+          <Ligature components="kn_nn" glyph="kn_nn_ottu"/>
+          <Ligature components="kn_t" glyph="kn_t_ottu"/>
+          <Ligature components="kn_th" glyph="kn_th_ottu"/>
+          <Ligature components="kn_d" glyph="kn_d_ottu"/>
+          <Ligature components="kn_dh" glyph="kn_dh_ottu"/>
+          <Ligature components="kn_n" glyph="kn_n_ottu"/>
+          <Ligature components="kn_p" glyph="kn_p_ottu"/>
+          <Ligature components="kn_ph" glyph="kn_ph_ottu"/>
+          <Ligature components="kn_b" glyph="kn_b_ottu"/>
+          <Ligature components="kn_bh" glyph="kn_bh_ottu"/>
+          <Ligature components="kn_m" glyph="kn_m_ottu"/>
+          <Ligature components="kn_y" glyph="kn_y_ottu"/>
+          <Ligature components="kn_r" glyph="kn_r_ottu"/>
+          <Ligature components="kn_l" glyph="kn_l_ottu"/>
+          <Ligature components="kn_ll" glyph="kn_ll_ottu"/>
+          <Ligature components="kn_v" glyph="kn_v_ottu"/>
+          <Ligature components="kn_sh" glyph="kn_sh_ottu"/>
+          <Ligature components="kn_ss" glyph="kn_ss_ottu"/>
+          <Ligature components="kn_s" glyph="kn_s_ottu"/>
+          <Ligature components="kn_h" glyph="kn_h_ottu"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_b_ottu">
+          <Ligature components="kn_u11235" glyph="kn_b_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_bh_ottu">
+          <Ligature components="kn_u11235" glyph="kn_bh_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_c_ottu">
+          <Ligature components="kn_u11235" glyph="kn_c_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ch_ottu">
+          <Ligature components="kn_u11235" glyph="kn_ch_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_d_ottu">
+          <Ligature components="kn_u11235" glyph="kn_d_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_dd_ottu">
+          <Ligature components="kn_u11235" glyph="kn_dd_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ddh_ottu">
+          <Ligature components="kn_u11235" glyph="kn_ddh_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_dh_ottu">
+          <Ligature components="kn_u11235" glyph="kn_dh_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_g_ottu">
+          <Ligature components="kn_u11235" glyph="kn_g_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_gh_ottu">
+          <Ligature components="kn_u11235" glyph="kn_gh_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_h_ottu">
+          <Ligature components="kn_u11235" glyph="kn_h_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_j_ottu">
+          <Ligature components="kn_u11235" glyph="kn_j_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_jh_ottu">
+          <Ligature components="kn_u11235" glyph="kn_jh_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_k_ottu">
+          <Ligature components="kn_u11235" glyph="kn_k_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_kh_ottu">
+          <Ligature components="kn_u11235" glyph="kn_kh_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_l_ottu">
+          <Ligature components="kn_u11235" glyph="kn_l_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ll_ottu">
+          <Ligature components="kn_u11235" glyph="kn_ll_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_m_ottu">
+          <Ligature components="kn_u11235" glyph="kn_m_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_n_ottu">
+          <Ligature components="kn_u11235" glyph="kn_n_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_uni06AD_ottu">
+          <Ligature components="kn_u11235" glyph="kn_uni06AD_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_nn_ottu">
+          <Ligature components="kn_u11235" glyph="kn_nn_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ny_ottu">
+          <Ligature components="kn_u11235" glyph="kn_ny_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_p_ottu">
+          <Ligature components="kn_u11235" glyph="kn_p_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ph_ottu">
+          <Ligature components="kn_u11235" glyph="kn_ph_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_r_ottu">
+          <Ligature components="kn_u11235" glyph="kn_r_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_s_ottu">
+          <Ligature components="kn_u11235" glyph="kn_s_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_sh_ottu">
+          <Ligature components="kn_u11235" glyph="kn_sh_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_ss_ottu">
+          <Ligature components="kn_u11235" glyph="kn_ss_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_t_ottu">
+          <Ligature components="kn_u11235" glyph="kn_t_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_th_ottu">
+          <Ligature components="kn_u11235" glyph="kn_th_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_tt_ottu">
+          <Ligature components="kn_u11235" glyph="kn_tt_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_tth_ottu">
+          <Ligature components="kn_u11235" glyph="kn_tth_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_v_ottu">
+          <Ligature components="kn_u11235" glyph="kn_v_ottu2"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_y_ottu">
+          <Ligature components="kn_u11235" glyph="kn_y_ottu2"/>
+        </LigatureSet>
+      </LigatureSubst>
+    </Lookup>
+    <Lookup index="4">
+      <LookupType value="4"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <LigatureSubst index="0" Format="1">
+        <LigatureSet glyph="kn_r">
+          <Ligature components="kn_u11235" glyph="kn_arka_ottu"/>
+        </LigatureSet>
+      </LigatureSubst>
+    </Lookup>
+    <Lookup index="5">
+      <LookupType value="4"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <LigatureSubst index="0" Format="1">
+        <LigatureSet glyph="kn_k">
+          <Ligature components="kn_u11235,kn_ss" glyph="kn_k_ss"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_j">
+          <Ligature components="kn_u11235,kn_ny" glyph="kn_j_ny"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_sh">
+          <Ligature components="kn_u11235,kn_r,kn_uniA9A9_uniA987" glyph="kn_Sh_v_r_uniA987"/>
+          <Ligature components="kn_u11235,kn_r_i,kn_dherge_e" glyph="kn_Sh_v_r_uniA987"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_j_ny">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_j_ny_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_j_ny_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_j_ny_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_j_ny_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_j_ny_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_j_ny_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_j_ny_uniA737"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_j_ny_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_j_ny_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_k_ss">
+          <Ligature components="kn_uniA9A9_e,kn_uniA9A9_uni1026" glyph="kn_k_ss_o"/>
+          <Ligature components="kn_uniA9A9_uniA733" glyph="kn_k_ss_uniA733"/>
+          <Ligature components="kn_uniA9A9_i" glyph="kn_k_ss_i"/>
+          <Ligature components="kn_uniA9A9_u" glyph="kn_k_ss_u"/>
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_k_ss_uni1026"/>
+          <Ligature components="kn_uniA9A9_e" glyph="kn_k_ss_e"/>
+          <Ligature components="kn_uniA9A9_uniA737" glyph="kn_k_ss_uniA737"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_k_ss_e">
+          <Ligature components="kn_uniA9A9_uni1026" glyph="kn_k_ss_o"/>
+        </LigatureSet>
+        <LigatureSet glyph="kn_sh_i">
+          <Ligature components="kn_r,kn_uniA9A9_uniA987" glyph="kn_Sh_v_r_uniA987"/>
+          <Ligature components="kn_r,kn_dherge_e" glyph="kn_Sh_v_r_uniA987"/>
+        </LigatureSet>
+      </LigatureSubst>
+    </Lookup>
+    <Lookup index="6">
+      <LookupType value="6"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=3 -->
+      <ChainContextSubst index="0" Format="3">
+        <!-- BacktrackGlyphCount=1 -->
+        <BacktrackCoverage index="0" Format="1">
+          <Glyph value="kn_b_ottu"/>
+          <Glyph value="kn_bh_ottu"/>
+          <Glyph value="kn_c_ottu"/>
+          <Glyph value="kn_ch_ottu"/>
+          <Glyph value="kn_d_ottu"/>
+          <Glyph value="kn_dd_ottu"/>
+          <Glyph value="kn_ddh_ottu"/>
+          <Glyph value="kn_dh_ottu"/>
+          <Glyph value="kn_g_ottu"/>
+          <Glyph value="kn_gh_ottu"/>
+          <Glyph value="kn_h_ottu"/>
+          <Glyph value="kn_j_ottu"/>
+          <Glyph value="kn_jh_ottu"/>
+          <Glyph value="kn_k_ottu"/>
+          <Glyph value="kn_kh_ottu"/>
+          <Glyph value="kn_l_ottu"/>
+          <Glyph value="kn_ll_ottu"/>
+          <Glyph value="kn_m_ottu"/>
+          <Glyph value="kn_n_ottu"/>
+          <Glyph value="kn_uni06AD_ottu"/>
+          <Glyph value="kn_nn_ottu"/>
+          <Glyph value="kn_ny_ottu"/>
+          <Glyph value="kn_p_ottu"/>
+          <Glyph value="kn_ph_ottu"/>
+          <Glyph value="kn_r_ottu"/>
+          <Glyph value="kn_s_ottu"/>
+          <Glyph value="kn_sh_ottu"/>
+          <Glyph value="kn_ss_ottu"/>
+          <Glyph value="kn_t_ottu"/>
+          <Glyph value="kn_th_ottu"/>
+          <Glyph value="kn_tt_ottu"/>
+          <Glyph value="kn_tth_ottu"/>
+          <Glyph value="kn_v_ottu"/>
+          <Glyph value="kn_y_ottu"/>
+        </BacktrackCoverage>
+        <!-- InputGlyphCount=1 -->
+        <InputCoverage index="0" Format="1">
+          <Glyph value="kn_b_ottu"/>
+          <Glyph value="kn_bh_ottu"/>
+          <Glyph value="kn_c_ottu"/>
+          <Glyph value="kn_ch_ottu"/>
+          <Glyph value="kn_d_ottu"/>
+          <Glyph value="kn_dd_ottu"/>
+          <Glyph value="kn_ddh_ottu"/>
+          <Glyph value="kn_dh_ottu"/>
+          <Glyph value="kn_g_ottu"/>
+          <Glyph value="kn_gh_ottu"/>
+          <Glyph value="kn_h_ottu"/>
+          <Glyph value="kn_j_ottu"/>
+          <Glyph value="kn_jh_ottu"/>
+          <Glyph value="kn_k_ottu"/>
+          <Glyph value="kn_kh_ottu"/>
+          <Glyph value="kn_l_ottu"/>
+          <Glyph value="kn_ll_ottu"/>
+          <Glyph value="kn_m_ottu"/>
+          <Glyph value="kn_n_ottu"/>
+          <Glyph value="kn_uni06AD_ottu"/>
+          <Glyph value="kn_nn_ottu"/>
+          <Glyph value="kn_ny_ottu"/>
+          <Glyph value="kn_p_ottu"/>
+          <Glyph value="kn_ph_ottu"/>
+          <Glyph value="kn_r_ottu"/>
+          <Glyph value="kn_s_ottu"/>
+          <Glyph value="kn_sh_ottu"/>
+          <Glyph value="kn_ss_ottu"/>
+          <Glyph value="kn_t_ottu"/>
+          <Glyph value="kn_th_ottu"/>
+          <Glyph value="kn_tt_ottu"/>
+          <Glyph value="kn_tth_ottu"/>
+          <Glyph value="kn_v_ottu"/>
+          <Glyph value="kn_y_ottu"/>
+        </InputCoverage>
+        <!-- LookAheadGlyphCount=1 -->
+        <LookAheadCoverage index="0" Format="1">
+          <Glyph value="kn_uniA9A9_uniA733"/>
+          <Glyph value="kn_uniA9A9_i"/>
+          <Glyph value="kn_uniA9A9_uniA987"/>
+          <Glyph value="kn_uniA9A9_u"/>
+          <Glyph value="kn_uniA9A9_uni1026"/>
+          <Glyph value="kn_uniA9A9_r"/>
+          <Glyph value="uni0CC4"/>
+          <Glyph value="kn_uniA9A9_e"/>
+          <Glyph value="kn_uniA9A9_ee"/>
+          <Glyph value="kn_uniA9A9_uniA98D"/>
+          <Glyph value="kn_uniA9A9_o"/>
+          <Glyph value="kn_uniA9A9_uniA74F"/>
+          <Glyph value="kn_uniA9A9_uniA737"/>
+          <Glyph value="kn_u11235"/>
+          <Glyph value="kn_dherge_e"/>
+          <Glyph value="kn_dherge_uniA98D"/>
+          <Glyph value="uni0CDD"/>
+        </LookAheadCoverage>
+        <!-- SubstCount=1 -->
+        <SubstLookupRecord index="0">
+          <SequenceIndex value="0"/>
+          <LookupListIndex value="7"/>
+        </SubstLookupRecord>
+      </ChainContextSubst>
+      <ChainContextSubst index="1" Format="3">
+        <!-- BacktrackGlyphCount=1 -->
+        <BacktrackCoverage index="0" Format="1">
+          <Glyph value="kn_b_ottu"/>
+          <Glyph value="kn_bh_ottu"/>
+          <Glyph value="kn_c_ottu"/>
+          <Glyph value="kn_ch_ottu"/>
+          <Glyph value="kn_d_ottu"/>
+          <Glyph value="kn_dd_ottu"/>
+          <Glyph value="kn_ddh_ottu"/>
+          <Glyph value="kn_dh_ottu"/>
+          <Glyph value="kn_g_ottu"/>
+          <Glyph value="kn_gh_ottu"/>
+          <Glyph value="kn_h_ottu"/>
+          <Glyph value="kn_j_ottu"/>
+          <Glyph value="kn_jh_ottu"/>
+          <Glyph value="kn_k_ottu"/>
+          <Glyph value="kn_kh_ottu"/>
+          <Glyph value="kn_l_ottu"/>
+          <Glyph value="kn_ll_ottu"/>
+          <Glyph value="kn_m_ottu"/>
+          <Glyph value="kn_n_ottu"/>
+          <Glyph value="kn_uni06AD_ottu"/>
+          <Glyph value="kn_nn_ottu"/>
+          <Glyph value="kn_ny_ottu"/>
+          <Glyph value="kn_p_ottu"/>
+          <Glyph value="kn_ph_ottu"/>
+          <Glyph value="kn_r_ottu"/>
+          <Glyph value="kn_s_ottu"/>
+          <Glyph value="kn_sh_ottu"/>
+          <Glyph value="kn_ss_ottu"/>
+          <Glyph value="kn_t_ottu"/>
+          <Glyph value="kn_th_ottu"/>
+          <Glyph value="kn_tt_ottu"/>
+          <Glyph value="kn_tth_ottu"/>
+          <Glyph value="kn_v_ottu"/>
+          <Glyph value="kn_y_ottu"/>
+        </BacktrackCoverage>
+        <!-- InputGlyphCount=1 -->
+        <InputCoverage index="0" Format="1">
+          <Glyph value="kn_b_ottu"/>
+          <Glyph value="kn_bh_ottu"/>
+          <Glyph value="kn_c_ottu"/>
+          <Glyph value="kn_ch_ottu"/>
+          <Glyph value="kn_d_ottu"/>
+          <Glyph value="kn_dd_ottu"/>
+          <Glyph value="kn_ddh_ottu"/>
+          <Glyph value="kn_dh_ottu"/>
+          <Glyph value="kn_g_ottu"/>
+          <Glyph value="kn_gh_ottu"/>
+          <Glyph value="kn_h_ottu"/>
+          <Glyph value="kn_j_ottu"/>
+          <Glyph value="kn_jh_ottu"/>
+          <Glyph value="kn_k_ottu"/>
+          <Glyph value="kn_kh_ottu"/>
+          <Glyph value="kn_l_ottu"/>
+          <Glyph value="kn_ll_ottu"/>
+          <Glyph value="kn_m_ottu"/>
+          <Glyph value="kn_n_ottu"/>
+          <Glyph value="kn_uni06AD_ottu"/>
+          <Glyph value="kn_nn_ottu"/>
+          <Glyph value="kn_ny_ottu"/>
+          <Glyph value="kn_p_ottu"/>
+          <Glyph value="kn_ph_ottu"/>
+          <Glyph value="kn_r_ottu"/>
+          <Glyph value="kn_s_ottu"/>
+          <Glyph value="kn_sh_ottu"/>
+          <Glyph value="kn_ss_ottu"/>
+          <Glyph value="kn_t_ottu"/>
+          <Glyph value="kn_th_ottu"/>
+          <Glyph value="kn_tt_ottu"/>
+          <Glyph value="kn_tth_ottu"/>
+          <Glyph value="kn_v_ottu"/>
+          <Glyph value="kn_y_ottu"/>
+        </InputCoverage>
+        <!-- LookAheadGlyphCount=0 -->
+        <!-- SubstCount=1 -->
+        <SubstLookupRecord index="0">
+          <SequenceIndex value="0"/>
+          <LookupListIndex value="7"/>
+        </SubstLookupRecord>
+      </ChainContextSubst>
+      <ChainContextSubst index="2" Format="3">
+        <!-- BacktrackGlyphCount=1 -->
+        <BacktrackCoverage index="0" Format="1">
+          <Glyph value="kn_b_ottu2"/>
+          <Glyph value="kn_bh_ottu2"/>
+          <Glyph value="kn_c_ottu2"/>
+          <Glyph value="kn_ch_ottu2"/>
+          <Glyph value="kn_d_ottu2"/>
+          <Glyph value="kn_dd_ottu2"/>
+          <Glyph value="kn_ddh_ottu2"/>
+          <Glyph value="kn_dh_ottu2"/>
+          <Glyph value="kn_g_ottu2"/>
+          <Glyph value="kn_gh_ottu2"/>
+          <Glyph value="kn_h_ottu2"/>
+          <Glyph value="kn_j_ottu2"/>
+          <Glyph value="kn_jh_ottu2"/>
+          <Glyph value="kn_k_ottu2"/>
+          <Glyph value="kn_kh_ottu2"/>
+          <Glyph value="kn_l_ottu2"/>
+          <Glyph value="kn_ll_ottu2"/>
+          <Glyph value="kn_m_ottu2"/>
+          <Glyph value="kn_n_ottu2"/>
+          <Glyph value="kn_uni06AD_ottu2"/>
+          <Glyph value="kn_nn_ottu2"/>
+          <Glyph value="kn_ny_ottu2"/>
+          <Glyph value="kn_p_ottu2"/>
+          <Glyph value="kn_ph_ottu2"/>
+          <Glyph value="kn_r_ottu2"/>
+          <Glyph value="kn_s_ottu2"/>
+          <Glyph value="kn_sh_ottu2"/>
+          <Glyph value="kn_ss_ottu2"/>
+          <Glyph value="kn_t_ottu2"/>
+          <Glyph value="kn_th_ottu2"/>
+          <Glyph value="kn_tt_ottu2"/>
+          <Glyph value="kn_tth_ottu2"/>
+          <Glyph value="kn_v_ottu2"/>
+          <Glyph value="kn_y_ottu2"/>
+        </BacktrackCoverage>
+        <!-- InputGlyphCount=1 -->
+        <InputCoverage index="0" Format="1">
+          <Glyph value="kn_b_ottu"/>
+          <Glyph value="kn_bh_ottu"/>
+          <Glyph value="kn_c_ottu"/>
+          <Glyph value="kn_ch_ottu"/>
+          <Glyph value="kn_d_ottu"/>
+          <Glyph value="kn_dd_ottu"/>
+          <Glyph value="kn_ddh_ottu"/>
+          <Glyph value="kn_dh_ottu"/>
+          <Glyph value="kn_g_ottu"/>
+          <Glyph value="kn_gh_ottu"/>
+          <Glyph value="kn_h_ottu"/>
+          <Glyph value="kn_j_ottu"/>
+          <Glyph value="kn_jh_ottu"/>
+          <Glyph value="kn_k_ottu"/>
+          <Glyph value="kn_kh_ottu"/>
+          <Glyph value="kn_l_ottu"/>
+          <Glyph value="kn_ll_ottu"/>
+          <Glyph value="kn_m_ottu"/>
+          <Glyph value="kn_n_ottu"/>
+          <Glyph value="kn_uni06AD_ottu"/>
+          <Glyph value="kn_nn_ottu"/>
+          <Glyph value="kn_ny_ottu"/>
+          <Glyph value="kn_p_ottu"/>
+          <Glyph value="kn_ph_ottu"/>
+          <Glyph value="kn_r_ottu"/>
+          <Glyph value="kn_s_ottu"/>
+          <Glyph value="kn_sh_ottu"/>
+          <Glyph value="kn_ss_ottu"/>
+          <Glyph value="kn_t_ottu"/>
+          <Glyph value="kn_th_ottu"/>
+          <Glyph value="kn_tt_ottu"/>
+          <Glyph value="kn_tth_ottu"/>
+          <Glyph value="kn_v_ottu"/>
+          <Glyph value="kn_y_ottu"/>
+        </InputCoverage>
+        <!-- LookAheadGlyphCount=0 -->
+        <!-- SubstCount=1 -->
+        <SubstLookupRecord index="0">
+          <SequenceIndex value="0"/>
+          <LookupListIndex value="7"/>
+        </SubstLookupRecord>
+      </ChainContextSubst>
+    </Lookup>
+    <Lookup index="7">
+      <LookupType value="1"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <SingleSubst index="0" Format="2">
+        <Substitution in="kn_b_ottu" out="kn_b_ottu2"/>
+        <Substitution in="kn_bh_ottu" out="kn_bh_ottu2"/>
+        <Substitution in="kn_c_ottu" out="kn_c_ottu2"/>
+        <Substitution in="kn_ch_ottu" out="kn_ch_ottu2"/>
+        <Substitution in="kn_d_ottu" out="kn_d_ottu2"/>
+        <Substitution in="kn_dd_ottu" out="kn_dd_ottu2"/>
+        <Substitution in="kn_ddh_ottu" out="kn_ddh_ottu2"/>
+        <Substitution in="kn_dh_ottu" out="kn_dh_ottu2"/>
+        <Substitution in="kn_g_ottu" out="kn_g_ottu2"/>
+        <Substitution in="kn_gh_ottu" out="kn_gh_ottu2"/>
+        <Substitution in="kn_h_ottu" out="kn_h_ottu2"/>
+        <Substitution in="kn_j_ottu" out="kn_j_ottu2"/>
+        <Substitution in="kn_jh_ottu" out="kn_jh_ottu2"/>
+        <Substitution in="kn_k_ottu" out="kn_k_ottu2"/>
+        <Substitution in="kn_kh_ottu" out="kn_kh_ottu2"/>
+        <Substitution in="kn_l_ottu" out="kn_l_ottu2"/>
+        <Substitution in="kn_ll_ottu" out="kn_ll_ottu2"/>
+        <Substitution in="kn_m_ottu" out="kn_m_ottu2"/>
+        <Substitution in="kn_n_ottu" out="kn_n_ottu2"/>
+        <Substitution in="kn_uni06AD_ottu" out="kn_uni06AD_ottu2"/>
+        <Substitution in="kn_nn_ottu" out="kn_nn_ottu2"/>
+        <Substitution in="kn_ny_ottu" out="kn_ny_ottu2"/>
+        <Substitution in="kn_p_ottu" out="kn_p_ottu2"/>
+        <Substitution in="kn_ph_ottu" out="kn_ph_ottu2"/>
+        <Substitution in="kn_r_ottu" out="kn_r_ottu2"/>
+        <Substitution in="kn_s_ottu" out="kn_s_ottu2"/>
+        <Substitution in="kn_sh_ottu" out="kn_sh_ottu2"/>
+        <Substitution in="kn_ss_ottu" out="kn_ss_ottu2"/>
+        <Substitution in="kn_t_ottu" out="kn_t_ottu2"/>
+        <Substitution in="kn_th_ottu" out="kn_th_ottu2"/>
+        <Substitution in="kn_tt_ottu" out="kn_tt_ottu2"/>
+        <Substitution in="kn_tth_ottu" out="kn_tth_ottu2"/>
+        <Substitution in="kn_v_ottu" out="kn_v_ottu2"/>
+        <Substitution in="kn_y_ottu" out="kn_y_ottu2"/>
+      </SingleSubst>
+    </Lookup>
+  </LookupList>
+</GSUB>
+</OTLayout>

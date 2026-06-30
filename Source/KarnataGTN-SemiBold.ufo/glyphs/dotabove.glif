@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotabove" format="2">
+  <advance width="135"/>
+  <outline>
+    <contour>
+      <point x="10" y="675.6" type="qcurve" smooth="yes"/>
+      <point x="10" y="646.6"/>
+      <point x="49.2" y="624.4"/>
+      <point x="73.8" y="624.4" type="qcurve" smooth="yes"/>
+      <point x="94.6" y="624.4"/>
+      <point x="124.6" y="654.8"/>
+      <point x="124.6" y="675.6" type="qcurve" smooth="yes"/>
+      <point x="124.6" y="686.2"/>
+      <point x="117.8" y="709"/>
+      <point x="105.2" y="727.8"/>
+      <point x="86.4" y="739.4"/>
+      <point x="73.8" y="739.4" type="qcurve" smooth="yes"/>
+      <point x="43.8" y="739.4"/>
+      <point x="10" y="705.2"/>
+    </contour>
+  </outline>
+</glyph>

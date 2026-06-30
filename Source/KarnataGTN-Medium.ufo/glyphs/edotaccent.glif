@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotaccent" format="2">
+  <advance width="459"/>
+  <unicode hex="0117"/>
+  <outline>
+    <component base="e" xOffset="-0.4"/>
+    <component base="period" xScale="1" xOffset="217.6" yOffset="678"/>
+  </outline>
+</glyph>

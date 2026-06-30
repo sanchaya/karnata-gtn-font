@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="2">
+  <advance width="256"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="154" y="390" type="line"/>
+      <point x="155" y="494"/>
+      <point x="154" y="692"/>
+      <point x="150" y="786" type="qcurve"/>
+      <point x="100" y="778" type="line"/>
+      <point x="103" y="689"/>
+      <point x="104" y="493"/>
+      <point x="103" y="390" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="101" y="137" type="line"/>
+      <point x="100" y="31"/>
+      <point x="102" y="-171"/>
+      <point x="106" y="-265" type="qcurve"/>
+      <point x="156" y="-261" type="line"/>
+      <point x="152" y="-167"/>
+      <point x="151" y="34"/>
+      <point x="152" y="137" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

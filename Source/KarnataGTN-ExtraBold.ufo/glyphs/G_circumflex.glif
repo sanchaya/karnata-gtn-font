@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcircumflex" format="2">
+  <advance width="663"/>
+  <unicode hex="011C"/>
+  <outline>
+    <component base="G" xOffset="1.6"/>
+    <component base="circumflex" xScale="1" xOffset="151.4" yOffset="166"/>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_g_ottu" format="2">
+  <advance width="113"/>
+  <outline>
+    <contour>
+      <point x="-129.6" y="-278" type="qcurve"/>
+      <point x="-128" y="-241"/>
+      <point x="-111" y="-166.8"/>
+      <point x="-85.8" y="-107.8"/>
+      <point x="-53.4" y="-70.4"/>
+      <point x="-36" y="-70" type="qcurve"/>
+      <point x="-20.2" y="-73.6"/>
+      <point x="10.2" y="-126"/>
+      <point x="32.4" y="-192.6"/>
+      <point x="44.4" y="-258.4"/>
+      <point x="42" y="-275.6" type="qcurve"/>
+      <point x="40.8" y="-290.6"/>
+      <point x="59.6" y="-311.8"/>
+      <point x="74.6" y="-313" type="qcurve" smooth="yes"/>
+      <point x="89.6" y="-314.2"/>
+      <point x="110.8" y="-295.4"/>
+      <point x="112" y="-280.4" type="qcurve"/>
+      <point x="113.8" y="-270.2"/>
+      <point x="109.2" y="-221.2"/>
+      <point x="96" y="-158.8"/>
+      <point x="72.6" y="-91.6"/>
+      <point x="39" y="-35.8"/>
+      <point x="-6" y="0"/>
+      <point x="-34.8" y="0" type="qcurve" smooth="yes"/>
+      <point x="-78.4" y="0"/>
+      <point x="-139.4" y="-59.4"/>
+      <point x="-179.2" y="-144.6"/>
+      <point x="-198.4" y="-239.4"/>
+      <point x="-199.6" y="-274.8" type="qcurve" smooth="yes"/>
+      <point x="-200.4" y="-289.4"/>
+      <point x="-181.6" y="-311"/>
+      <point x="-166.6" y="-311.8" type="qcurve" smooth="yes"/>
+      <point x="-152" y="-312.6"/>
+      <point x="-129.6" y="-293"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="2">
+  <advance width="631"/>
+  <unicode hex="0024"/>
+  <outline>
+    <component base="S" xOffset="-0.8"/>
+    <component base="bar" xScale="1" xOffset="195.4" yOffset="88"/>
+  </outline>
+</glyph>

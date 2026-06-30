@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0CBC" format="2">
+  <advance width="38"/>
+  <unicode hex="0CBC"/>
+  <outline>
+    <component base="period" xOffset="-180" yOffset="-140"/>
+    <component base="period" yOffset="-140"/>
+  </outline>
+</glyph>

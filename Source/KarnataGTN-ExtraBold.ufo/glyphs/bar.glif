@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="2">
+  <advance width="308"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="114" y="-265.8" type="qcurve"/>
+      <point x="204" y="-260.2" type="line"/>
+      <point x="199.8" y="-130.6"/>
+      <point x="197.4" y="131"/>
+      <point x="196.4" y="391.4"/>
+      <point x="192.6" y="650.8"/>
+      <point x="186" y="778.8" type="qcurve"/>
+      <point x="100" y="766.8" type="line"/>
+      <point x="103.2" y="642.8"/>
+      <point x="105.4" y="384.4"/>
+      <point x="107.4" y="122.8"/>
+      <point x="109.8" y="-139.2"/>
+    </contour>
+  </outline>
+</glyph>
