@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Adieresis" format="2">
-  <advance width="745"/>
-  <unicode hex="00C4"/>
-  <outline>
-    <component base="A" xOffset="-0.4"/>
-    <component base="dieresis" xOffset="154.2" yOffset="166"/>
-  </outline>
-</glyph>

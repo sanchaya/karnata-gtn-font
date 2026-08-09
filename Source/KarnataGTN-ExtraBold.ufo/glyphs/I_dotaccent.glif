@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Idotaccent" format="2">
-  <advance width="642"/>
-  <unicode hex="0130"/>
-  <outline>
-    <component base="I" xOffset="-0.8"/>
-    <component base="period" xOffset="232.2" yOffset="784"/>
-  </outline>
-</glyph>
